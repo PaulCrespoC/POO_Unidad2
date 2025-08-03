@@ -61,7 +61,7 @@ Este proyecto implementa un sistema completo de gestión de contenido audiovisua
 ## Estructura del Proyecto
 
 ```
-poo_unidad1-master/
+/
 ├── src/
 │   ├── model/                          # Modelo (M en MVC)
 │   │   ├── ContenidoAudiovisual.java    # Clase abstracta base
@@ -108,8 +108,8 @@ poo_unidad1-master/
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/paulcrespoc/poo_unidad1-master.git
-   cd poo_unidad1-master
+   git clone https://github.com/paulcrespoc/POO_Unidad2.git
+   cd POO_Unidad2
    ```
 
 2. **Crear directorios necesarios**:
@@ -278,11 +278,6 @@ El proyecto incluye un diagrama de clases UML que muestra:
 ## Contribución
 
 Este proyecto fue desarrollado como parte de una actividad educativa de POO. Las mejoras y extensiones son bienvenidas siguiendo los principios de diseño orientado a objetos.
-
-## Licencia
-
-Este proyecto es de uso educativo y está disponible bajo licencia MIT.
-
 ---
 
 **Desarrollado por**: Paul Crespo
