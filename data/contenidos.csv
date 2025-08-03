@@ -1,0 +1,8 @@
+# Archivo de Contenido Audiovisual
+# Formato: TIPO,ID,TITULO,DURACION,GENERO,CAMPO_ESPECIFICO
+
+PELICULA,1,Avatar,162,Ciencia Ficción,20th Century Studios
+SERIE,2,Game of Thrones,60,Fantasía,8
+DOCUMENTAL,3,Cosmos,45,Ciencia,Astronomía
+YOUTUBE,4,Tutorial Java POO,25,Educativo,CodeAcademy,15000,1200,2024-01-15,1080p
+CORTOMETRAJE,5,El Último Día,15,Drama,María García,Festival de Cannes,false,Digital,75000

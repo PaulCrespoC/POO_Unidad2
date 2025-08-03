@@ -35,7 +35,7 @@ public class PruebaAudioVisual {
         pelicula2.agregarActor(actor2);
 
         // Crear serie de TV con temporadas
-        SerieDeTV serie1 = new SerieDeTV("Game of Thrones", 60, "Fantasy", 8);
+        SerieDeTV serie1 = new SerieDeTV("Game of Thrones", 60, "Fantasía", 8);
         Temporada temp1 = new Temporada(1, 10, "2011-04-17", "2011-06-19");
         temp1.agregarEpisodio("Winter Is Coming");
         temp1.agregarEpisodio("The Kingsroad");
